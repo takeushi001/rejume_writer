@@ -3,7 +3,6 @@ import openai
 from datetime import datetime
 from pydub import AudioSegment
 from pydub import AudioSegment
-from tqdm import tqdm
 import glob
 from dotenv import load_dotenv
 
