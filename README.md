@@ -34,7 +34,6 @@
 
     - `dotenv`
 
-    - `tqdm`
 
 - 環境変数ファイル（.env）にOpenAIのAPIキーを設定する必要があります。
 
